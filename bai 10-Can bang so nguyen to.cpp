@@ -16,7 +16,6 @@ int main() {
     cin >> n;
     int a[n];
     for (int i = 0; i < n; i++) cin >> a[i];
-
     bool found = false;
     for (int i = 1; i < n - 1; i++) {
         int sum_left = 0, sum_right = 0;
@@ -28,6 +27,7 @@ int main() {
             found = true;
         }
     }
+	
 
     return 0;
 }
