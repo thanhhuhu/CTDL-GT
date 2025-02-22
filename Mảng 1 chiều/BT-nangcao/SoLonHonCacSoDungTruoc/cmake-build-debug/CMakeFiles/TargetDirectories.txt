@@ -1,0 +1,3 @@
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/SoLonHonCacSoDungTruoc/cmake-build-debug/CMakeFiles/SoLonHonCacSoDungTruoc.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/SoLonHonCacSoDungTruoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/SoLonHonCacSoDungTruoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

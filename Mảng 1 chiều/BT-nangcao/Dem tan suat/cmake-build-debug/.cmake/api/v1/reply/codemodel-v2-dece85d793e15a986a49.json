@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dem_tan_suat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dem_tan_suat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dem_tan_suat-Debug-4cb55d9f039d0f171221.json",
+					"name" : "Dem_tan_suat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LEGION/Documents/CTDL&GT/M\u1ea3ng 1 chi\u1ec1u/BT-nangcao/Dem tan suat/cmake-build-debug",
+		"source" : "C:/Users/LEGION/Documents/CTDL&GT/M\u1ea3ng 1 chi\u1ec1u/BT-nangcao/Dem tan suat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

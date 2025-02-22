@@ -1,0 +1,3 @@
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Dem cap cac so nguyen to cung nhau/cmake-build-debug/CMakeFiles/Dem_cap_cac_so_nguyen_to_cung_nhau.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Dem cap cac so nguyen to cung nhau/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Dem cap cac so nguyen to cung nhau/cmake-build-debug/CMakeFiles/rebuild_cache.dir

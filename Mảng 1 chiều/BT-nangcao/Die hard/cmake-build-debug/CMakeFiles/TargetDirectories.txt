@@ -1,0 +1,3 @@
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Die hard/cmake-build-debug/CMakeFiles/Die_hard.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Die hard/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Die hard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Sap xep chan le/cmake-build-debug/CMakeFiles/Sap_xep_chan_le.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Sap xep chan le/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Sap xep chan le/cmake-build-debug/CMakeFiles/rebuild_cache.dir

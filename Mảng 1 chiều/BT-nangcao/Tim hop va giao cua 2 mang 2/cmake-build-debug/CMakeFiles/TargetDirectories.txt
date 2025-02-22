@@ -1,0 +1,3 @@
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Tim hop va giao cua 2 mang 2/cmake-build-debug/CMakeFiles/Tim_hop_va_giao_cua_2_mang_2.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Tim hop va giao cua 2 mang 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Documents/CTDL&GT/Mảng 1 chiều/BT-nangcao/Tim hop va giao cua 2 mang 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

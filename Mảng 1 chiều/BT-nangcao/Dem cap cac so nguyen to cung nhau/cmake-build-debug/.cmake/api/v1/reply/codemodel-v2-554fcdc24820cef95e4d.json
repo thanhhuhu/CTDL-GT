@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dem_cap_cac_so_nguyen_to_cung_nhau",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dem_cap_cac_so_nguyen_to_cung_nhau::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dem_cap_cac_so_nguyen_to_cung_nhau-Debug-814201d3dbbc049c1669.json",
+					"name" : "Dem_cap_cac_so_nguyen_to_cung_nhau",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LEGION/Documents/CTDL&GT/M\u1ea3ng 1 chi\u1ec1u/BT-nangcao/Dem cap cac so nguyen to cung nhau/cmake-build-debug",
+		"source" : "C:/Users/LEGION/Documents/CTDL&GT/M\u1ea3ng 1 chi\u1ec1u/BT-nangcao/Dem cap cac so nguyen to cung nhau"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
